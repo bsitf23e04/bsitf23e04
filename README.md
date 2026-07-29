@@ -14,11 +14,46 @@ Frontend Developer and BSIT student focused on building clean, responsive, and u
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## 🐍 Contribution Snake
+## 📂 Featured Projects
 
-![](https://raw.githubusercontent.com/bsitf23e04/bsitf23e04/output/github-contribution-grid-snake-dark.svg)
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-> This image will stay blank until the workflow below has been added **and run once** — see setup notes underneath.
+**🩸 Blood Donation Management System**
+Python / Django — connects blood donors and recipients, manages donation records, and provides an organized blood management system.
+<br/>
+[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/bsitf23e04/BloodDonationManagementSystem)
+
+</td>
+<td width="50%" valign="top">
+
+**🌐 Orbit Animated Landing Page**
+HTML / CSS / JS — responsive animated landing page with CSS keyframe animations, transitions, and scroll reveal effects using the Intersection Observer API.
+<br/>
+[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/bsitf23e04/orbit-animated-landing-page)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**💳 Personal Profile Card**
+HTML5 / CSS3 — a responsive personal profile card built with a modern UI design.
+<br/>
+[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/bsitf23e04/Personal-Profile-Card)
+
+</td>
+<td width="50%" valign="top">
+
+**💼 Responsive Flexbox Pricing**
+HTML / CSS — a responsive 3-column pricing layout built with CSS Flexbox, mobile-friendly with smooth hover effects.
+<br/>
+[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/bsitf23e04/responsive-flexbox-pricing)
+
+</td>
+</tr>
+</table>
 
 ---
 
